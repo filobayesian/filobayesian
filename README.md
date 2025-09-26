@@ -2,7 +2,6 @@
 Pierre-Simon Laplace
 
 ## 🪽 About me
-- I am Filippo
 - 3rd year Econ @ Bocconi
 - Currently exploring Extreme Value Theory
 
@@ -24,3 +23,6 @@ Under the CS department @ Bocconi we are working on:
 
 ## 💭 Personal Projects
 - [⁠ Weather Derivatives ⁠](https://github.com/GianiRanzetti/Minerva---Weather-Derivatives): Climate modeling with Ornstein-Uhlenbeck processes using Wavelet Networks. 
+
+## ❕ Current Interests
+Looking for methodological work at the intersection of ML and EVT applied to Finance or Weather modelling.
