@@ -25,4 +25,5 @@ Under the CS department @ Bocconi we are working on:
 - [⁠ Weather Derivatives ⁠](https://github.com/GianiRanzetti/Minerva---Weather-Derivatives): Climate modeling with Ornstein-Uhlenbeck processes using Wavelet Networks. 
 
 ## ❕ Current Interests
-Looking for methodological work at the intersection of ML and EVT applied to Finance or Weather modelling.
+- Building InkRL with [ Vitto ](https://github.com/garavels) and [ Andre ](https://github.com/WaverAndrew).
+- Exploring Exepctiles with EVT in time series for my thesis.
