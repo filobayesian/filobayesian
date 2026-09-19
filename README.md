@@ -2,28 +2,34 @@
 Pierre-Simon Laplace
 
 ## 🪽 About me
-- 3rd year Econ @ Bocconi
-- Currently exploring Extreme Value Theory
+  - MSc in Computational Statistics and Machine Learning @ UCL
+  - BSc in Economics @ Bocconi
 
-## 🥼 Research Oriented Projects
+## 🥽 Current Projects
+World Models Research:
+  - Conducting research toward a peer-reviewed CS conference submission, under the guidance of Bocconi Computer Science faculty.
 
-With [⁠ Braico ⁠](https://github.com/francescobraicovich) and [ Vitto ](https://github.com/garavels) we explored *ARC–AGI with Reinforcement Learning*:
-
-- [⁠ ARC (v1) ⁠](https://github.com/francescobraicovich/ARC): Custom DSL and action space with Wolpertinger Actor-Critic for large combinatorial domains.
-- [⁠ ARC (v2) ⁠](https://github.com/francescobraicovich/ARC2): Added learnable action embeddings and ViT state encoding with a pretrained world model.
-- [⁠ ARC (v3) ⁠](https://github.com/francescobraicovich/ARC3): World modeling.
-
-Under the CS department @ Bocconi we are working on:
-- ['RL World Models'](https://github.com/bocconi-narcos/latent-world-models): Benchmarking JEPA vs. ViT encoder–decoder world models in RL environments.
-
-## 🌐 University Projects
-- [⁠ Statistics-30457 ⁠](https://github.com/garavels/Statistics-30457): Vanilla risk parity vs. alternative model portfolios. 
-- [⁠ Econometrics-30462 ⁠](https://github.com/filobayesian/Econometrics-30462): Demand modeling using cross-sectional and panel techniques. 
+Independent Contractor:
+  - Helping care givers take better care of the elderly with computer vision
 
 
-## 💭 Personal Projects
-- [⁠ Weather Derivatives ⁠](https://github.com/GianiRanzetti/Minerva---Weather-Derivatives): Climate modeling with Ornstein-Uhlenbeck processes using Wavelet Networks. 
+## 👾 Hackathons
+Technical Excellence Prize at the SoTA x ARIA Trust Everything Everywhere Hackathon:
+  - [ClawdBoat](https://github.com/filobayesian/ClawdBoat): A Natural Language to MPC control and simulation suite for autonomous underwater drones.
+    (Invited by BAE systems in their Pall Mall HQ to pitch it to their Chief Security Officer)
 
-## ❕ Current Interests
-- Building InkRL with [ Vitto ](https://github.com/garavels) and [ Andre ](https://github.com/WaverAndrew).
-- Exploring Exepctiles with EVT in time series for my thesis.
+4th Place at the Anthropic Hackathon @ Imperial College London:
+  - [Non Profit in a Box](https://github.com/filobayesian/Claude-Hack/tree/main): An agentic workflow to help non-profit founders handle the UK approval process
+
+
+## 🏛️ Student Associations:
+🟣 Hephaestus Applied Artificial Intelligence (Bocconi)
+    Explored *ARC–AGI with Reinforcement Learning* together with [⁠ Braico ⁠](https://github.com/francescobraicovich) and [ Vitto ](https://github.com/garavels):
+      - [⁠ ARC (v1) ⁠](https://github.com/francescobraicovich/ARC): Custom DSL and action space with Wolpertinger Actor-Critic for large combinatorial domains.
+      - [⁠ ARC (v2) ⁠](https://github.com/francescobraicovich/ARC2): Added learnable action embeddings and ViT state encoding with a pretrained world model.
+      - [⁠ ARC (v3) ⁠](https://github.com/francescobraicovich/ARC3): World modelling.
+    (Received some humbling feedback from François Chollet himself)
+
+🔵 Minerva Investment Management Society
+    Explored quantitative methods for pricing temperature derivatives:
+      - [⁠ Weather Derivatives ⁠](https://github.com/GianiRanzetti/Minerva---Weather-Derivatives): Climate modeling with Ornstein-Uhlenbeck processes using Wavelet Networks. 
