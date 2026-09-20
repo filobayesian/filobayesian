@@ -16,8 +16,8 @@ Independent Contractor:
 
 ## 👾 Hackathons
 Technical Excellence Prize at the SoTA x ARIA Trust Everything Everywhere Hackathon:
-  - [ClawdBoat](https://github.com/filobayesian/ClawdBoat): A Natural Language to MPC control and simulation suite for autonomous underwater drones.
-    (Invited by BAE systems in their Pall Mall HQ to pitch it to their Chief Security Officer)
+  - [ClawdBoat](https://github.com/filobayesian/ClawdBoat): A Natural Language to MPC control and simulation suite for autonomous underwater drones.<br>
+    (Invited by BAE systems in their Pall Mall HQ to pitch it to their Chief Security Officer)<br>
 
 
 4th Place at the Anthropic Hackathon @ Imperial College London:
@@ -29,8 +29,8 @@ Technical Excellence Prize at the SoTA x ARIA Trust Everything Everywhere Hackat
 Explored *ARC–AGI with Reinforcement Learning* together with [⁠ Braico ⁠](https://github.com/francescobraicovich) and [ Vitto ](https://github.com/garavels):
   - [⁠ ARC (v1) ⁠](https://github.com/francescobraicovich/ARC): Custom DSL and action space with Wolpertinger Actor-Critic for large combinatorial domains.
   - [⁠ ARC (v2) ⁠](https://github.com/francescobraicovich/ARC2): Added learnable action embeddings and ViT state encoding with a pretrained world model.
-  - [⁠ ARC (v3) ⁠](https://github.com/francescobraicovich/ARC3): World modelling.
-    (Received some humbling feedback from François Chollet himself)
+  - [⁠ ARC (v3) ⁠](https://github.com/francescobraicovich/ARC3): World modelling.<br>
+    (Received some humbling feedback from François Chollet himself)<br>
 
 🔵 Minerva Investment Management Society
 Explored quantitative methods for pricing temperature derivatives:
