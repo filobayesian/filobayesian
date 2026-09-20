@@ -6,21 +6,21 @@ Pierre-Simon Laplace
   - BSc in Economics @ Bocconi
 
 ## 🥽 Current Projects
-World Models Research:
+🪩 World Models Research:
   - Conducting research toward a peer-reviewed CS conference submission, under the guidance of Bocconi Computer Science faculty.
 
 
-Independent Contractor:
+🛸Independent Contractor:
   - Helping care givers take better care of the elderly with computer vision
 
 
 ## 👾 Hackathons
-Technical Excellence Prize at the SoTA x ARIA Trust Everything Everywhere Hackathon:
+🏆 Technical Excellence Prize at the SoTA x ARIA Trust Everything Everywhere Hackathon:
   - [ClawdBoat](https://github.com/filobayesian/ClawdBoat): A Natural Language to MPC control and simulation suite for autonomous underwater drones.<br>
     (Invited by BAE systems in their Pall Mall HQ to pitch it to their Chief Security Officer)<br>
 
 
-4th Place at the Anthropic Hackathon @ Imperial College London:
+🏆 4th Place at the Anthropic Hackathon @ Imperial College London:
   - [Non Profit in a Box](https://github.com/filobayesian/Claude-Hack/tree/main): An agentic workflow to help non-profit founders handle the UK approval process
 
 
